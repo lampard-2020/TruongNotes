@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TruongNotes</string>
+    <string name="str_yes">Yes</string>
+    <string name="str_no">No</string>
+    <string name="str_question_delete">Do you want to delete ?</string>
+    <string name="str_ok">OK</string>
+    <string name="str_cancel">Cancel</string>
+</resources>

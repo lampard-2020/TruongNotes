@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885058183566",
+    "project_id": "truong-notes",
+    "storage_bucket": "truong-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885058183566:android:fc206c98934210f1ae84df",
+        "android_client_info": {
+          "package_name": "com.notes.miniapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885058183566-fkospa3p7gucrlo8a3hcb6hou4d7krom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu3Rk6ETS51Y0_Il6e0dxNrkQ_5xfVEVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885058183566-fkospa3p7gucrlo8a3hcb6hou4d7krom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
